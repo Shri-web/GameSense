@@ -41,7 +41,7 @@ Ensure you have the following software installed on your machine:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/GameSense.git
+    https://github.com/Shri-web/GameSense.git
     cd GameSense
     ```
 
