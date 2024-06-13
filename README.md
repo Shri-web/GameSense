@@ -64,17 +64,15 @@ Ensure you have the following software installed on your machine:
 - **Search**: Enter a query or use the sidebar filters to find specific products.
 - **View Product**: Click on a product to view detailed information and top reviews.
 ## Images
-
-
+![Home Page](screenshots/home.png)
+![Product Description](screenshots/info.png)
+![Top Reviews](screenshots/reviews.png)
+![Chatbot](screenshots/chatbot.png)
 
 ## Acknowledgements
 
-- [PostgreSQL](https://www.postgresql.org/)
 - [Streamlit](https://streamlit.io/)
 - [Pinecone](https://www.pinecone.io/)
 - [Cohere](https://cohere.ai/)
 - [OpenAI](https://www.openai.com/)
 
----
-
-Feel free to customize this description to better fit your project's specific details and any additional features you plan to implement.
