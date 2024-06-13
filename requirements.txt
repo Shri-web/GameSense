@@ -1,0 +1,10 @@
+streamlit
+tiktoken
+pinecone-client
+cohere
+pandas
+numpy
+gunicorn
+python-dotenv
+sentence_transformers
+langchain
